@@ -2,7 +2,7 @@
 
 # 
 
-# **Gruppenname:** noch offen
+# *Gruppenname:* noch offen
 
 # 
 
@@ -32,5 +32,4 @@
 
 # \## Daniel 
 
-# (noch leer)
-
+#	Daniel (Whatsapp, Reviewer mit "Request changes" mit Screenshot von der Conversation, Erreichbarkeit: immer,Rückmeldungen können auf sich warten lassen (maximal 2 Tage))
