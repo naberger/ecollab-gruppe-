@@ -1,1 +1,35 @@
-#	eCollaboration	–	Zusammenarbeit	im	Portfolio **Gruppenname:**	noch	offen ##	Julia (noch	leer) ##	Nadija (Whatsapp und Discord, Repo anlegen, README- Gerüst, Einladungen senden, Erreichbakeit: abends und Wochenende ) ##	Kevin (noch	leer) ##	Valentina (noch	leer) ##	Daniel (noch	leer)
+# eCollaboration – Zusammenarbeit im Portfolio
+
+# 
+
+# *Gruppenname:* noch offen
+
+# 
+
+# \## Julia 
+
+# (noch leer)
+
+# 
+
+# \## Nadija 
+
+# Whatsapp und Discord, Repo anlegen, README- Gerüst, Einladungen senden, Erreichbakeit: abends und Wochenende 
+
+# 
+
+# \## Kevin 
+
+# Dokumentation. Merge Conflict lösen. Screenshots erfassen.
+
+# 
+
+# \## Valentina 
+
+# Tools: WhatsApp und Teams. Aufgaben: Recherche. Erreichbarkeit: abends. 
+
+# 
+
+# \## Daniel 
+
+#	Daniel (Whatsapp, Reviewer mit "Request changes" mit Screenshot von der Conversation, Erreichbarkeit: immer,Rückmeldungen können auf sich warten lassen (maximal 2 Tage))
