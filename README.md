@@ -14,7 +14,7 @@
 
 # \## Nadija 
 
-# (noch leer)
+# Whatsapp und Discord, Repo anlegen, README- Gerüst, Einladungen senden, Erreichbakeit: abends und Wochenende 
 
 # 
 
