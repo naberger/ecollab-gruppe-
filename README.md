@@ -26,7 +26,7 @@
 
 # \## Valentina 
 
-# (noch leer) 
+# Tools: WhatsApp und Teams. Aufgaben: Recherche. Erreichbarkeit: abends. 
 
 # 
 
