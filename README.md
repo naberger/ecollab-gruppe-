@@ -8,7 +8,7 @@
 
 # \## Julia 
 
-# Keep calm and git push --force. :D
+# Keep calm and git push --force. :D Tools: WhatsApp. Aufgaben: Abgabe aller Nachweise. Erreichbarkeit: abends.
 
 # 
 
