@@ -2,7 +2,7 @@
 
 # 
 
-# *Gruppenname:* noch offen
+# *Gruppenname:* Keine Ahnung ob des so richtig is
 
 # 
 
