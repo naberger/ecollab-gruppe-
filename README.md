@@ -2,34 +2,35 @@
 
 # 
 
-# *Gruppenname:* Keine Ahnung ob des so richtig is
+# *Gruppenname:* Git Happens - Gruppe 9
 
 # 
 
-# \## Julia 
+# \## Julia
 
 # Keep calm and git push --force. :D Tools: WhatsApp. Aufgaben: Abgabe aller Nachweise. Erreichbarkeit: abends.
 
 # 
 
-# \## Nadija 
+# \## Nadija
 
-# Whatsapp und Discord, Repo anlegen, README- Gerüst, Einladungen senden, Erreichbakeit: abends und Wochenende 
+# Whatsapp und Discord, Repo anlegen, README- Gerüst, Einladungen senden, Erreichbakeit: abends und Wochenende
 
 # 
 
-# \## Kevin 
+# \## Kevin
 
 # Dokumentation. Merge Conflict lösen. Screenshots erfassen.
 
 # 
 
-# \## Valentina 
+# \## Valentina
 
-# Tools: WhatsApp und Teams. Aufgaben: Recherche. Erreichbarkeit: abends. 
+# Tools: WhatsApp und Teams. Aufgaben: Recherche. Erreichbarkeit: abends.
 
 # 
 
-# \## Daniel 
+# \## Daniel
 
-#	Daniel (Whatsapp, Reviewer mit "Request changes" mit Screenshot von der Conversation, Erreichbarkeit: immer,Rückmeldungen können auf sich warten lassen (maximal 2 Tage))
+# Daniel (Whatsapp, Reviewer mit "Request changes" mit Screenshot von der Conversation, Erreichbarkeit: immer,Rückmeldungen können auf sich warten lassen (maximal 2 Tage))
+
